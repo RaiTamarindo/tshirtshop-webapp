@@ -1,0 +1,25 @@
+{
+  "name": "tshirtshop-webapp",
+  "version": "1.0.0",
+  "description": "Frontend application of TShirt Store proposed on Turing test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaiTamarindo/tshirtshop-webapp.git"
+  },
+  "keywords": [
+    "web",
+    "app",
+    "ecommerce",
+    "tshirt"
+  ],
+  "author": "Raí Tamarindo",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/RaiTamarindo/tshirtshop-webapp/issues"
+  },
+  "homepage": "https://github.com/RaiTamarindo/tshirtshop-webapp#readme"
+}
